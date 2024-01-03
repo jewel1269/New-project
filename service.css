@@ -1,0 +1,88 @@
+.jewel{
+    display: flex;
+    gap: 300px;
+    
+    margin-top: 50px;
+}
+.habib{
+    display: flex;
+    gap: 210px;
+    margin-top: 50px;
+}
+.tabib{
+    display: flex;
+    gap: 340px;
+    margin-top: 50px;
+}
+img{
+    height: 170px;
+    width: 170px;
+    padding: 8px 8px 8px 8px;
+    border-radius: 7px;
+}
+.jewel1{
+    display: flex;
+    border: 2px solid;
+    border-radius: 7px;
+    box-shadow: 3px 3px 3px 3px black;
+   
+}
+.jewel2{
+    display: flex;
+    border: 2px solid;
+    border-radius: 7px;
+    box-shadow: 3px 3px 3px 3px black;
+    
+}
+.jewel3{
+    display: flex;
+    border: 2px solid;
+    border-radius: 7px;
+    box-shadow: 3px 3px 3px 3px black;
+    
+}
+.jewel4{
+    display: flex;
+    border: 2px solid;
+    border-radius: 7px;
+    box-shadow: 3px 3px 3px 3px black;
+
+}
+.jewel5{
+    display: flex;
+    border: 2px solid;
+    border-radius: 7px;
+    box-shadow: 3px 3px 3px 3px black;
+    
+}
+.jewel6{
+    display: flex;
+    border: 2px solid;
+    border-radius: 7px;
+    box-shadow: 3px 3px 3px 3px black;
+    
+}
+h2{
+    color: red;
+}
+button{
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+}
+h1{
+    text-align: center;
+    color: blue;
+}
+.lamo{
+    background-color: antiquewhite;
+    border: 2px solid;
+    border-radius: 8px;
+    box-shadow: 3px 3px 3px 3px black;
+}
+.phone{
+    text-align: center;
+}
+.claso{
+    color: blue;
+}
